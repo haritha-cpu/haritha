@@ -1,1 +1,1 @@
-# haritha
+This web-based application is weather knowing app. You can search for city in India. It give weather in C and along with weather it also gives humidity, wind speed, pressure and also predicted weather for coming 5 days. This uses my API keys of openweathermap.org. 
